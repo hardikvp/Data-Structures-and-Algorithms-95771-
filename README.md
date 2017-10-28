@@ -1,1 +1,3 @@
-# Data-Structures-and-Algorithms-95771-
+Data Structures and Algorithms course - 95771
+
+Language : Java
